@@ -1,16 +1,19 @@
-## Hi there 👋
+Swim Teacher at Chadwick International School developing practical software tools for educational and athletic administration.
 
-<!--
-**DeeHaTech/deehatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Key Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Rubric App: Application for structured student evaluation.
+
+Record Print App: Tool for athletic meet data management.
+
+Custom Web Development: Various domain-specific websites.
+
+
+Domain Focus
+
+Aquatics Instruction & Meet Management
+
+Athletic Performance Tracking
+
+Educational Administration Tools
